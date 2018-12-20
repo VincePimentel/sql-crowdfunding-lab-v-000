@@ -1,0 +1,12 @@
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 1", "Electronics", 30001, "01-01-18", "03-01-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 2", "Electronics", 30002, "01-02-18", "03-02-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 3", "Electronics", 30003, "01-03-18", "03-03-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 4", "Electronics", 30004, "01-04-18", "03-04-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 5", "Electronics", 30005, "01-05-18", "03-05-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 6", "Electronics", 30006, "01-06-18", "03-06-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 7", "Electronics", 30007, "01-07-18", "03-09-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 8", "Electronics", 30008, "01-08-18", "03-08-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 9", "Electronics", 30009, "01-09-18", "03-09-18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 10", "Electronics", 30010, "01-10-18", "03-10-18");
+INSERT INTO users (name, age) VALUES ();
+INSERT INTO pledges (amount, user_id, project_id) VALUES ();
